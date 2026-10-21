@@ -1,0 +1,4 @@
+Pollutant,Unit,Mean_influent,Mean_final_effluent,Removal_from_mean_concentrations_pct,Mean_daily_removal_pct,Median_daily_removal_pct,Dates_with_higher_final_than_influent,Mean_daily_log10_reduction
+BOD5,mg/L,172.1323,31.905,81.4648,81.4374,84.1722,0,
+TSS,mg/L,199.4026,22.7822,88.5748,88.3667,88.6574,0,
+Coliform,MPN/100 mL,18199383.7495,45618.6714,99.7493,99.609,99.9167,0,3.0566

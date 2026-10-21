@@ -1,0 +1,5 @@
+Flow_quartile,observations,mean_flow,mean_influent_BOD5,mean_final_BOD5,mean_BOD5_removal_pct
+Q1: Lowest,685,72839.027,180.557,29.595,83.658
+Q2,684,84302.091,169.016,28.334,83.39
+Q3,684,97195.164,165.908,31.697,80.939
+Q4: Highest,684,108270.32,173.036,37.998,77.76

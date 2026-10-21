@@ -1,0 +1,4 @@
+Pollutant,Trend_slope_per_year,Linear_R_squared,Linear_p_value,Spearman_correlation,Spearman_p_value,First_year_effluent_mean,Last_year_effluent_mean
+BOD5,2.44491,0.571,0.01852,0.78333,0.01252,24.73093,50.07118
+TSS,0.03789,0.00065,0.94794,-0.16667,0.66823,22.68151,21.73743
+Coliform,-46.91369,1e-05,0.99508,-0.35,0.35582,50157.84356,4204.39891

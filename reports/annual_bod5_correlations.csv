@@ -1,0 +1,8 @@
+Variable,Pearson_correlation,Spearman_correlation
+Flow,0.53,0.733
+pH_inf,-0.727,-0.65
+Coliform_inf,0.697,0.617
+BOD5_inf,0.384,0.55
+DO_inf,0.398,0.433
+TSS_inf,-0.092,-0.117
+Temp,0.23,0.033
